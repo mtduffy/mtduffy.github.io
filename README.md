@@ -1,2 +1,2 @@
 # mtduffy.github.io
-My little home on the web
+My first foray into git.
