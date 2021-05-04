@@ -36,3 +36,11 @@ h1 {
   font-weight: 400;
   color: #444;
 }
+.instagram-holder {
+  display: flex; 
+  flex-flow: row; 
+  justify-content: flex-start;
+}
+.instagram-item {
+  margin-right: 1rem;
+}
