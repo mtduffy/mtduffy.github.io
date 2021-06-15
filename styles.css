@@ -19,8 +19,8 @@ nav a {
   text-decoration: none;
 }
 main {
-  margin: 3rem 20% 1rem;
-  width: 60%;
+  margin: 3rem auto 1rem;
+  width: 90%;
 }
 h1 {
   margin-bottom: .2rem;
@@ -43,4 +43,9 @@ h1 {
 }
 .instagram-holder>iframe {
   margin-right: 1rem !important;
+}
+@media (min-width: 768px) {
+  main {
+    width: 60%;
+  }
 }
